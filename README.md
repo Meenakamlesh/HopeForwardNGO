@@ -6,8 +6,8 @@ A modern, responsive website for NGOs built with React and Tailwind CSS. This pr
 
 ## 🚀 Live Demo
 
-- **Live Website:** [View Demo](https://your-ngo-website.vercel.app)
-- **GitHub Repository:** [Source Code](https://github.com/yourusername/ngo-website)
+- **Live Website:** [View Demo](https://hope-forward-ngo-tau.vercel.app/)
+- **GitHub Repository:** [Source Code](https://github.com/Meenakamlesh/HopeForwardNGO)
 
 ## ✨ Features
 
